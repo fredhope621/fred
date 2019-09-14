@@ -1,1 +1,2 @@
 # fred
+work hard fred
